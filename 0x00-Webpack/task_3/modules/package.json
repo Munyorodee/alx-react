@@ -1,0 +1,17 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "body.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.4",
+    "lodash": "^4.17.21",
+    "webpack": "^5.80.0"
+  }
+}
