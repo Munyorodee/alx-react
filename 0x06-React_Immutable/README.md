@@ -1,4 +1,16 @@
-esources
+# 0x06. React Immutable
+Front-end
+JavaScript
+ES6
+React
+ By: Johann Kerbrat, Engineering Manager at Uber Works
+ Weight: 1
+ Project will start May 9, 2023 5:00 AM, must end by May 12, 2023 5:00 AM
+ Checker was released at May 9, 2023 11:00 PM
+ An auto review will be launched at the deadline
+
+
+Resources
 Read or watch:
 
 Immutable Object concept
@@ -32,4 +44,4 @@ Click to show/hide file contents
 jsconfig.json
 Click to show/hide file contents
 package.json
-Click to show/hide file contents
+Click to show/hide file contents# alx-react
